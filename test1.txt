@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is my first git project!
 this is my second git project!
+=======
+你好吗！！
+>>>>>>> 567d29b19389b2f6076fcc74ca057dc1cefc75d2
