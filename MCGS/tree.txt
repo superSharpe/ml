@@ -1,0 +1,17 @@
+文件夹 PATH 列表
+卷序列号为 0009-1F8B
+C:.
+│  1 compressor unit.MCE
+│  2 compressor unit.MCE
+│  3 compressor unit.MCE
+│  4 compressor unit.MCE
+│  readme.txt
+│  start screen.bmp
+│  tree.txt
+│  
+├─展会3机头程序
+│      3 compressor unit - for chinaShop.MCE
+│      
+└─工厂样机2机头20190627
+        2 compressor unit_工厂样机20190627.MCE
+        
